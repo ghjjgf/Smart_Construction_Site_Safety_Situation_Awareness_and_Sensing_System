@@ -1,7 +1,8 @@
 # Smart_Construction_Site_Safety_Situation_Awareness_and_Sensing_System
 Only provide exe executable programs
 
-由于此系统仍处于开发阶段，且涉及横向课题合同限制，暂不提供源码，如需运行可参考配置如下环境
+由于此系统仍处于开发阶段，暂不提供源码，如需运行可参考配置如下环境
+
 项目环境信息
 ============
 
