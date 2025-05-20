@@ -58,9 +58,12 @@ Only provide exe executable programs
 - QtScrcpy-win-x64-v2.2.1
 - OpenCV库路径：G:/enlishpath/opencv-4.8.0/opencv/build
 - 需要配备的DLL：
-opencv_world480.dll (Release版本)
-opencv_world480d.dll (Debug版本)
-Qt相关动态库
+- opencv_world480.dll (Release版本)
+- opencv_world480d.dll (Debug版本)
+- Qt相关动态库
+
+
+
 
 
 
