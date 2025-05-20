@@ -62,8 +62,11 @@ Only provide exe executable programs
 - opencv_world480d.dll (Debug版本)
 - Qt相关动态库
 
+6. 如仍无法运行，请根据报错再进行逐步解决，如无法解决 请联系本人邮箱 2816290589@qq.com
 
+项目ui图：
 
+![屏幕截图 2025-05-20 130242](https://github.com/user-attachments/assets/e1cd0f96-68cb-42b1-b9cb-7ca1ee5e00ae)
 
 
 
